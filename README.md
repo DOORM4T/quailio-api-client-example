@@ -13,7 +13,7 @@ Display all nodes from a Quailio network by entering its shared ID in this clien
 ##### Example:
 
 ```http
-  GET https://quailio-api.herokuapp.com/api/c47378db-26a8-4338-afde-28a0b0052442
+  GET https://quailio-api.herokuapp.com/api/2f19bac0-bef2-4583-bdc4-d4ae00363c37
 ```
 
 ## Steps
